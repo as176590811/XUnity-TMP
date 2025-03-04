@@ -1,2 +1,3 @@
-# XUnity-TMP
-**仅用XUnity.AutoTranslator的字体**
+# XUnity-TextMeshPro
+**仅用于XUnity.AutoTranslator插件的TextMeshPro字体**
+**TextMeshPro fonts for XUnity.AutoTranslator plugin only**
