@@ -2,6 +2,8 @@
 **仅用于XUnity.AutoTranslator插件的TextMeshPro字体**   
 **TextMeshPro fonts for XUnity.AutoTranslator plugin only**
 
+# 所有TextMeshPro字体未经测试，请自行测试
+
 # 用法：
 **配置 XUnity.AutoTranslator**  
 **BepInEx**  
