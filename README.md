@@ -9,23 +9,23 @@
 **BepInEx**  
 导航到BepInEx/config/AutoTranslatorConfig.ini  
 [Behaviour]  
-OverrideFontTextMeshPro=输入你的TMP字体2  
-FallbackFontTextMeshPro=输入你的TMP字体1  
+OverrideFontTextMeshPro=TMP字体1  
+FallbackFontTextMeshPro=TMP字体2  
 
 **BepInEx-Unity.IL2CPP**  
 导航到BepInEx/config/AutoTranslatorConfig.ini  
 [Behaviour]  
-OverrideFontTextMeshPro=输入你的TMP字体2  
-FallbackFontTextMeshPro=输入你的TMP字体1
+OverrideFontTextMeshPro=TMP字体1  
+FallbackFontTextMeshPro=TMP字体2
 
 **ReiPatcher**  
 导航到AutoTranslator/Config.ini  
 [Behaviour]  
-OverrideFontTextMeshPro=输入你的TMP字体2  
-FallbackFontTextMeshPro=输入你的TMP字体1
+OverrideFontTextMeshPro=TMP字体1  
+FallbackFontTextMeshPro=TMP字体2
 
 **MelonLoader**  
 导航到AutoTranslator/Config.ini  
 [Behaviour]  
-OverrideFontTextMeshPro=输入你的TMP字体2  
-FallbackFontTextMeshPro=输入你的TMP字体1
+OverrideFontTextMeshPro=TMP字体1  
+FallbackFontTextMeshPro=TMP字体2
