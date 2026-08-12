@@ -1,3 +1,5 @@
+
+
 # XUnity-TextMeshPro-Font-AssetBundles
 **仅用于XUnity.AutoTranslator插件的TextMeshPro字体**   
 **TextMeshPro fonts for XUnity.AutoTranslator plugin only**
@@ -29,3 +31,5 @@ FallbackFontTextMeshPro=TMP字体1
 [Behaviour]  
 OverrideFontTextMeshPro=TMP字体2  
 FallbackFontTextMeshPro=TMP字体1
+
+> **提示**：配置中的 `TMP字体1` 和 `TMP字体2` 为占位符，请替换为实际的字体 AssetBundle 文件名（不含扩展名）。
